@@ -6,5 +6,5 @@ The ravdess dataset was used for mlp classifier and ML algorithms notebook.
 
 The combined dataset used for speech emotion recognition was large so could not upload it .
 
-Contact me for the dataset - harishramalingam7@gmail.com
+Contact me for the dataset - sanjaysiva4630@gmail.com 
 
